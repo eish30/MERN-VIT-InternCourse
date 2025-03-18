@@ -1,0 +1,14 @@
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    width: 300px;
+    height: auto;
+}
+
+.caption {
+    font-style: italic;
+    color: gray;
+}

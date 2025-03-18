@@ -1,0 +1,20 @@
+/* First Paragraph */
+p:first-of-type {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;
+    text-align: left;
+}
+
+/* Second Paragraph */
+p:nth-of-type(2) {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.8;
+    text-align: center;
+}
+
+/* Third Paragraph */
+p:nth-of-type(3) {
+    font-family: 'Courier New', monospace;
+    line-height: 2;
+    text-align: right;
+}
